@@ -6,6 +6,6 @@ updates:
     interval: daily
   open-pull-requests-limit: 20
 - package-ecosystem: "gitsubmodule"
-    directory: "/"
-    schedule:
-      interval: "daily"
+  directory: "/"
+  schedule:
+    interval: "daily"
